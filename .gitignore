@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+/AiSD2026/Laby_04/Zadanie43/dane.csv
+
 # User-specific files
 *.rsuser
 *.suo
